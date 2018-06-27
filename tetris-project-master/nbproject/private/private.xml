@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/game/Main.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/Element.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceS.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/States/GameState.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceL.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/util/Assets.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceI.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/game/Screen.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/control/GameMap1.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/control/Game.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceT.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/States/State.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceZ.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceO.java</file>
+            <file>file:/C:/Users/Dell/Documents/tetris-project-master/src/Elements/PieceJ.java</file>
+        </group>
+    </open-files>
+</project-private>
